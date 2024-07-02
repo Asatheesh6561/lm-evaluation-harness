@@ -1,0 +1,4 @@
+"task": "wmdp_translate_bio"
+"dataset_name": "default"
+"include": "_default_template_yaml"
+"description": "The following are multiple choice questions (with answers) about biology.\n\n"
